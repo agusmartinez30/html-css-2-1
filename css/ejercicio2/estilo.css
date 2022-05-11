@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.app-content{
+    background: #533E85;
+    width: 100%;
+    min-height: 100vh;
+}
+.header-app{
+    padding: 10px 0;
+}
+    h2{
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 32px;
+        color: #4FD3C4;
+    }
+
+.nav-content{
+    padding: 20px;
+    
+}
+    ul{
+        padding: 5px 20px;
+        font-size: 22px;
+        color: #C1F8CF;
+    }
+    ul a li{
+        padding: 2px;
+        font-size: 18px;
+        color: #4FD3C4;
+    }

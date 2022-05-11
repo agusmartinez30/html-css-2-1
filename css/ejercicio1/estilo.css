@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.app-content{
+    width: 100%;
+    min-height: 100vh;
+    padding: 20px;
+    background-color: #143F6B;
+}
+.link-content{
+   padding: 20px;
+}
+    ul{
+        color: #F55353;
+    }
+    ul li{
+        padding: 5px 0;
+    }
+    ul li a{
+        text-decoration: none;
+        color: #FEB139;
+        
+    }
+.contenedorPrincipal{
+    color: blueviolet;
+}
+    h1{
+        color: blue;
+        padding: 10px 0;
+        color: #F55353;
+        font-size: 28px;
+    }
+    p{
+        padding: 10px 0;
+        color: #E8FFC2;
+        font-size: 18px;
+    }
+    p:last-child{
+        font-style: italic;
+        color: #FEB139;
+    }
